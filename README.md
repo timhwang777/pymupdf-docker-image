@@ -23,8 +23,8 @@ Follow these steps to get a local copy up and running:
 ```
 2. For simplicity, we use `docker run` each time to build a new container and create volumes. This may result in many containers when you run `docker ps -a`. Here's how to run the container:
 ```bash
-docker run -v "$(pwd)/data":/pymupdf/data pymupdf \
-[INPUT].pdf [OUTPUT].txt
+    docker run -v "$(pwd)/data":/pymupdf/data pymupdf \
+    [INPUT].pdf [OUTPUT].txt
 ```
 ### Prerequisites
 Ensure you have Docker daemon or Docker Desktop installed on your machine.
