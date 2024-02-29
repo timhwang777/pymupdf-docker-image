@@ -1,0 +1,2 @@
+# Ignore the pdf and text files under the data folder
+data/*
