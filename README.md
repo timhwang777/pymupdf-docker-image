@@ -1,5 +1,6 @@
 # PyMuPDF Docker Image Builder
-
+![badge](https://img.shields.io/badge/Docker-Solutions-blue?logo=docker
+)
 
 ## Table of Contents
 1. [About the Project](#about-the-project)
