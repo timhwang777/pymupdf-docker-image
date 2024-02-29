@@ -1,6 +1,6 @@
-# This is another version of the Dockerfile that uses the alpine image
-# Beaware of that even thought the alpine image is small enough, the depencies are not
-# The whole Python installation could be around 800MB
+# This is another version of the Dockerfile that uses the Alpine image.
+# Be aware that even though the Alpine image is small, the dependencies are not.
+# The whole Python installation could be around 800MB.
 
 FROM alpine:latest
 
